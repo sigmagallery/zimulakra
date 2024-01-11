@@ -1,15 +1,9 @@
-title: 
-description: 
+title: Zimulakra
+description: Minting NFTs exclusively on Ergo since 2020.
 image: https://ipfs.io/ipfs/
 mintAddresses:
-  - 
+  - 9en2JxyCnQgjgRCaFMXBX87z1VcGjVvd3yug2GVmJXRHw59Evgz
 bannerLinks:
   - label: Twitter
-    url: https://twitter.com/
+    url: https://twitter.com/zimulakra
     icon: fa-brands fa-twitter fa-fw
-  - label: Discord
-    url: https://discord.com/invite/
-    icon: fa-brands fa-discord fa-fw
-  - label: Website
-    url: 
-    icon: fa-solid fa-globe fa-fw
