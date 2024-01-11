@@ -1,0 +1,15 @@
+title: 
+description: 
+image: https://ipfs.io/ipfs/
+mintAddresses:
+  - 
+bannerLinks:
+  - label: Twitter
+    url: https://twitter.com/
+    icon: fa-brands fa-twitter fa-fw
+  - label: Discord
+    url: https://discord.com/invite/
+    icon: fa-brands fa-discord fa-fw
+  - label: Website
+    url: 
+    icon: fa-solid fa-globe fa-fw
