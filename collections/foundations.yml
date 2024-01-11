@@ -4,11 +4,13 @@ nfts:
   description: |-
     https://i.ibb.co/qNsVdrZ/Foundations-Series-ERGO.gif
     https://twitter.com/zimulakra
+  imageUrl: https://i.ibb.co/qNsVdrZ/Foundations-Series-ERGO.gif
 - tokenId: 79be675cb600167c2daa286aaff31fe899e1b8e406fa6f70caaafabe77b30a72
   name: Foundations Series -- ERGO 2/100
   description: |-
     https://i.ibb.co/qNsVdrZ/Foundations-Series-ERGO.gif
     https://twitter.com/zimulakra
+  imageUrl: https://i.ibb.co/qNsVdrZ/Foundations-Series-ERGO.gif
 - tokenId: cfe9b622bee127b90ead369832b6f68e134ba48490682d40ba5c84e6d93048f7
   name: Foundations Series -- ERGO 3/100
   description: >-
@@ -38,6 +40,7 @@ nfts:
     2 second loop - 30 fps
 
     https://twitter.com/Zimulakra
+  imageUrl: https://ibb.co/VQpmLqx
 - tokenId: b9a4add10a78b4bffb151004dbf9cac8ae4be2d6adb0f38434410b4cb3801daf
   name: Foundations Series -- VB
   description: |-
@@ -45,6 +48,7 @@ nfts:
 
     https://i.ibb.co/Fgy5Zsj/Foundations-Series-VB.gif
     https://twitter.com/Zimulakra
+  imageUrl: https://i.ibb.co/Fgy5Zsj/Foundations-Series-VB.gif
 - tokenId: 47fa6249c1fd20288de6a95643d4e66d78342ec00b4e539b033dc1b3fe6090a9
   name: Zimulakra's Foundations Series -- AC 1/1
   description: ''
@@ -52,8 +56,7 @@ nfts:
 - tokenId: a151bfb6b6d508cc8a94600a8a0506c4c6b9392f4b82638d011598f6bfbc6557
   name: Zimulakra's Foundations Series -- AR 1/1
   description: ''
-  imageUrl: >-
-    https://gateway.ipfs.io/ipfs/bafybeif6kmyt7ez3fxbisdqtesxmzujngeyhosfaxwpmhqdrlmvl2o2nhe
+  imageUrl: https://gateway.ipfs.io/ipfs/bafybeif6kmyt7ez3fxbisdqtesxmzujngeyhosfaxwpmhqdrlmvl2o2nhe
 - tokenId: fecb813a84c6044494a2c59808e2de02c56a8317202099a892e9a758983fcb02
   name: Zimulakra's Foundations Series -- AS 1/1
   description: https://twitter.com/zimulakra
